@@ -2,5 +2,5 @@
 
 ## Introduction
 
-This project crawls data from http://www.gewara.com/news/cinema# gewara
-This project crawler is under the scrapy structure to crawl the info and photo from the gewara.
+This project crawls data from https:arxiv.org
+The data is only used to do research instead of commercial purpose.
